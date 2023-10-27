@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SearchingOperation\bin\Debug\SearchingOperation.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SearchingOperation\bin\Debug\SearchingOperation.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SearchingOperation\bin\Debug\SearchingOperation.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SearchingOperation\obj\Debug\SearchingOperation.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SearchingOperation\obj\Debug\SearchingOperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SearchingOperation\obj\Debug\SearchingOperation.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SearchingOperation\obj\Debug\SearchingOperation.pdb
